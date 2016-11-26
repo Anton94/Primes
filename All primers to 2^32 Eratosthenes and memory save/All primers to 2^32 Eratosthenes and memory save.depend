@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480148996 source:d:\algos v1\all primers to 2^32 eratosthenes and memory save\main.cpp
+	<iostream>
+	<cmath>
+
